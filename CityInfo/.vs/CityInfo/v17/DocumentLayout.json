@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\i45349\\onedrive - verisk analytics\\desktop\\web apis - fundamentals\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\i45349\\onedrive - verisk analytics\\desktop\\web apis - fundamentals\\cityinfo\\cityinfo.api\\citydatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\citydatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\i45349\\onedrive - verisk analytics\\desktop\\web apis - fundamentals\\cityinfo\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\i45349\\onedrive - verisk analytics\\desktop\\web apis - fundamentals\\cityinfo\\cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\i45349\\onedrive - verisk analytics\\desktop\\web apis - fundamentals\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\i45349\\onedrive - verisk analytics\\desktop\\web apis - fundamentals\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{68C8C5DE-4844-43EA-BC67-3BA8F84325A0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CityDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\CityDataStore.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\CityDataStore.cs",
+              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\CityDataStore.cs",
+              "RelativeToolTip": "CityInfo.API\\CityDataStore.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:06:46.531Z",
+              "WhenOpened": "2025-07-15T10:03:16.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CityInfo.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CityInfo.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T09:35:07.465Z",
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Models\\CityDto.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Models\\CityDto.cs",
+              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Models\\CityDto.cs",
+              "RelativeToolTip": "CityInfo.API\\Models\\CityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:02:20.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityInfo.API",
-              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
-              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-08T09:30:04.675Z",
+              "DocumentIndex": 1,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:54:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\i45349\\OneDrive - Verisk Analytics\\Desktop\\web apis - fundamentals\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeToolTip": "CityInfo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:06:46.531Z",
               "EditorCaption": ""
             }
           ]
